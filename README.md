@@ -8,5 +8,5 @@ Web Developer | Laravel | BIM Student
 
 ## GitHub Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=purnikaprajapati12&theme=dark)  
+![Purnika's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=purnikaprajapati12&theme=dark)  
 ![Purnika's GitHub stats](https://github-readme-stats.vercel.app/api?username=purnikaprajapati12&show_icons=true&theme=dark)  
