@@ -6,7 +6,7 @@ Web Developer | Laravel | BIM Student
 🌱 I’m currently learning **advanced Laravel & web testing**  
 💬 Ask me about **PHP, Laravel, and web development**  
 
-### Languages & Technologies I Know  
+### Languages & Technologies 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
