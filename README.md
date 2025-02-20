@@ -1,6 +1,6 @@
 # Purnika Prajapati
-<h5>About Me</h1>
-
+<h5>About Me</h5>
+<h5>Currently</h5>
 Web Developer | Laravel | BIM Student  
 
 🌱 I’m currently learning **advanced Laravel & web testing**  
