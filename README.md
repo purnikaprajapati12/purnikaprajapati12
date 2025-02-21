@@ -1,5 +1,5 @@
 # Purnika Prajapati
-<h5>About Me 🐱‍🏍</h5>
+<h5>About Me </h5> <h1>🐱‍🏍</h1>
 <h5>Currently</h5>
 Web Developer | Laravel | BIM Student  
 
